@@ -30,7 +30,10 @@ gem 'jquery-rails'
 
 # Use unicorn as the app server
 # gem 'unicorn'
+gem "paperclip"
+gem 'sorcery'
 
+gem "haml-rails"
 # Deploy with Capistrano
 # gem 'capistrano'
 
